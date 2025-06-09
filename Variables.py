@@ -9,3 +9,4 @@ elif nombre1 == False:
     print("Tu nombre esta mal")
     nombre2=nombre.title()
     print(f"Tu nombre es asi:{nombre2}")
+    
