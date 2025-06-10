@@ -1,4 +1,4 @@
-nombre= input("Escribe tu nombre:")
+nombre= input("Escribe tu nombre empezando con maýusculas:")
 
 nombre1=nombre.istitle()
 print (nombre1)
