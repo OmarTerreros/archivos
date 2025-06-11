@@ -1,3 +1,5 @@
+#Agregando solo comentarios
+
 nombre= input("Escribe tu nombre empezando con maýusculas:")
 
 nombre1=nombre.istitle()
@@ -9,4 +11,3 @@ elif nombre1 == False:
     print("Tu nombre esta mal")
     nombre2=nombre.title()
     print(f"Tu nombre es asi:{nombre2}")
-    
